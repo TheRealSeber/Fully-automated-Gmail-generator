@@ -19,5 +19,5 @@ Modules:
 Additional features:
 - Phone verification using sms-activate.org API. Additional possibility to reuse the same phone number if possible.
 - Connecting to the android phone (<4.4.2 version) and using it as a "mobile proxy"
-- Generating the logs and reusing them if needed
-- A
+- Generating the logs. (see examples in log files)
+- Working with logs, loading them. In case of rerunning some tasks, depending on the state they were ended with, the bot would know what to do.
