@@ -1,6 +1,6 @@
 {
-    "sms_activate_api_key": "869A44059190d2c58c3fe170cf03b440",
-    "sms_man_api_key": "WTORevKvPGOnpX46LD7hF3COc5a43ajU",
+    "sms_activate_api_key": "",
+    "sms_man_api_key": "",
     "recovery_email": "random",
     "master_mail": ""
 }
